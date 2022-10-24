@@ -41,6 +41,7 @@ a:hover {
 .logo {
   width: 50%;
   border-radius: 100%;
+  margin-bottom: 5%;
 }
 
 /* Text Overlay on Image */
@@ -200,7 +201,7 @@ h3 {
 
   .front_image {
     opacity: 0.5;
-    height: 600px;
+    height: 400px;
     background-color: black;
     transition: 2s;
   }
