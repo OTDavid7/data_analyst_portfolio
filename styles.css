@@ -7,10 +7,11 @@ body {
 
 }
 
-p {
+p, li {
   text-align: justify;
   font-family: cursive;
 }
+
 
 #OT_David {
   font-size: 1.2em;
