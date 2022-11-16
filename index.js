@@ -1,3 +1,4 @@
 function resume() {
-                    alert("Hello World");
-                    prompt("What is your name")}
+                    alert("You are about to download my resume!");
+                    alert("I am looking forward chatting with you")
+                    }
