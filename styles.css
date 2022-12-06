@@ -10,7 +10,8 @@ body {
 
 p, li {
   text-align: justify;
-  font-family: Montserrat;
+/*   font-family: Montserrat; */
+  font-family: "Merriweather", Georgia, serif;
 }
 
 
@@ -99,7 +100,8 @@ h5 {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: cursive;
+/*   font-family: cursive; */
+  font-family: "Merriweather", Georgia, serif;
    
 }
 .contact,
@@ -110,7 +112,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .get-in-touch {
   background-color: rgb(202, 224, 248);
-  ;
   padding: 2% 10% 2% 10%;
   text-transform: uppercase;
   text-align: center;
