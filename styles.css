@@ -365,7 +365,7 @@ h3 {
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
 
-  p, h1, h2, h3, h4, h5, h6, a {
-  font-size: 0.7em}
+  p, h1, h2, h3, h4, h5, h6, a, li, ul {
+  font-size: 0.8em}
 }
 
