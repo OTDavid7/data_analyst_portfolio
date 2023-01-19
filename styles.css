@@ -359,6 +359,17 @@ h3 {
   color: white;
 }
 
+/* CSS for porfolio html */
+#project {
+  opacity: 0.5;
+ background-color: white;
+}
+
+#project:hover {
+  opacity: 1
+}
+
+
 /* CSS for phone  */
 
 
