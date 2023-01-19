@@ -358,3 +358,14 @@ h3 {
   background: #ff6600;
   color: white;
 }
+
+/* CSS for phone  */
+
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+
+  p, h1, h2, h3, h4, h5, h6, a {
+  font-size: 0.7em}
+}
+
