@@ -366,6 +366,7 @@ h3 {
   opacity: 0.9;
  padding: 2%;
   border: solid 2px grey;
+  border-style: groove;
   }
 
 #project:hover {
