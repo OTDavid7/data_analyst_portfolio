@@ -363,7 +363,8 @@ h3 {
 #project {
   opacity: 0.9;
  background-color: white;
- padding: 2%;
+ padding: 2% 0% 0% 2%;
+  border: solid 2px grey;
   }
 
 #project:hover {
