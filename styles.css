@@ -361,8 +361,10 @@ h3 {
 
 /* CSS for porfolio html */
 #project {
-  opacity: 0.5;
+  opacity: 0.9;
  background-color: white;
+ padding: 2%;
+  margin:2%;
 }
 
 #project:hover {
